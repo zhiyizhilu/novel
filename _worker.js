@@ -1,6 +1,5 @@
 const TELEGRAPH_URL = 'https://www.69shuba.com';
 
-
 export default {
   async fetch(request, env) {
       const NewResponse = await handleRequest(request)
