@@ -1,4 +1,4 @@
-const TELEGRAPH_URL = 'https://www.69shuba.com';
+const TELEGRAPH_URL = 'https://www.69shu.com';
 
 export default {
   async fetch(request, env) {
